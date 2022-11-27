@@ -1,2 +1,2 @@
 print("GRANA A")
-print("komentar sa githuba")
+print("komentar sa lokalnogg")

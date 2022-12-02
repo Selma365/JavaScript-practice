@@ -1,2 +1,2 @@
 # Practice4
-Some practice.
+Some practice about JS.
